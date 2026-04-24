@@ -1,7 +1,7 @@
 # AI Knowledge Assistant — Academic City University
 **Student Name:** Josavina  Abbey
 **Index Number:** 10022300071
-**Course:** CS4241 — Introduction to Artificial Intelligence  
+**Course:** IT3241 — Introduction to Artificial Intelligence  
 **Lecturer:** Godwin N. Danso  
 **Year:** 2026  
 
