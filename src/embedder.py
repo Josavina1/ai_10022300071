@@ -1,6 +1,6 @@
 # embedder.py
 # Author: Josavina - 10022300071
-# CS4241 - Introduction to Artificial Intelligence - 2026
+# IT3241 - Introduction to Artificial Intelligence - 2026
 # Part B: Custom Embedding Pipeline & Vector Storage
 
 import os
