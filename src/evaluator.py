@@ -1,6 +1,6 @@
 # evaluator.py
 # Author: Josavina - 10022300071
-# CS4241 - Introduction to Artificial Intelligence - 2026
+# IT3241 - Introduction to Artificial Intelligence - 2026
 # Part E: Critical Evaluation & Adversarial Testing
 
 import os
