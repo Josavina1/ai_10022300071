@@ -1,6 +1,6 @@
 # app.py
 # Author: Josavina - 10022300071
-# CS4241 - Introduction to Artificial Intelligence - 2026
+# IT3241 - Introduction to Artificial Intelligence - 2026
 # Final Deliverable: Streamlit RAG Chat Application
 
 import os
@@ -292,7 +292,7 @@ with st.sidebar:
     st.markdown('<div class="side-title">📚 Data Sources</div>', unsafe_allow_html=True)
     st.caption("🗳️ Ghana Election Results CSV")
     st.caption("💰 2025 Budget Statement PDF")
-    st.markdown('<div class="side-footnote">CS4241 · Academic City University</div>', unsafe_allow_html=True)
+    st.markdown('<div class="side-footnote">IT3241 · Academic City University</div>', unsafe_allow_html=True)
 
 
 # ── Main header / hero ────────────────────────────────────────────────────────
