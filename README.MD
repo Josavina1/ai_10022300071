@@ -21,7 +21,7 @@ ComponentTechnologyEmbeddingssentence-transformers/all-MiniLM-L6-v2 (local)Vecto
 
 🚀 Quick Start
 1. Clone the repo
-bashgit clone https://github.com/[your-username]/ai_[index-number]
+bashgit clone https://github.com/Josavina1/ai_10022300071 
 cd ai_[10022300071]
 2. Install dependencies
 bashpip install -r requirements.txt
@@ -31,7 +31,7 @@ bashstreamlit run app.py
 5. Enter your OpenRouter or Groq API key in the sidebar
 
 📁 Project Structure
-ai_[index]/
+ai_10022300071/
 ├── src/
 │   ├── data_loader.py      # Part A: Data engineering & cleaning
 │   ├── chunker.py          # Part A: Chunking strategies
